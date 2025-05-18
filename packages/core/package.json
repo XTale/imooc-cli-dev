@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@wzq-cli-dev/utils": "^0.0.1"
+    "@wzq-cli-dev/utils": "^0.0.2"
   },
   "gitHead": "98ffd16774bbdfd76e16702e35758010908e80ab"
 }
