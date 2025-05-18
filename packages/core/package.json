@@ -1,6 +1,6 @@
 {
   "name": "@wzq-cli-dev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "wangzq <wangzq5@chinatelecom.cn>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@wzq-cli-dev/utils": "^0.0.3"
+    "@wzq-cli-dev/utils": "^0.0.4"
   },
   "gitHead": "b6c6b1e6d3502428d1ca8265a6dff06529e9ff20"
 }
