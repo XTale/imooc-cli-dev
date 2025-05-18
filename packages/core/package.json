@@ -24,6 +24,5 @@
   },
   "dependencies": {
     "@wzq-cli-dev/utils": "^0.0.9"
-  },
-  "gitHead": "b6c6b1e6d3502428d1ca8265a6dff06529e9ff20"
+  }
 }
