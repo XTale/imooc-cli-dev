@@ -1,0 +1,25 @@
+{
+  "name": "@imooc-cli-dev/core",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "wangzq <wangzq5@chinatelecom.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@imooc-cli-dev/utils": "^1.0.0"
+  }
+}
