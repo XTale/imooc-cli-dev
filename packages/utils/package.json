@@ -1,5 +1,5 @@
 {
-  "name": "@imooc-cli-dev/utils",
+  "name": "@wzq-cli-dev/utils",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "wangzq <wangzq5@chinatelecom.cn>",
@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
-  }
+  },
+  "gitHead": "98ffd16774bbdfd76e16702e35758010908e80ab"
 }

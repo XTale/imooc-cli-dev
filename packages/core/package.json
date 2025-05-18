@@ -1,5 +1,5 @@
 {
-  "name": "@imooc-cli-dev/core",
+  "name": "@wzq-cli-dev/core",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "wangzq <wangzq5@chinatelecom.cn>",
@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@imooc-cli-dev/utils": "^0.0.1"
-  }
+  },
+  "gitHead": "98ffd16774bbdfd76e16702e35758010908e80ab"
 }
