@@ -17,12 +17,13 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "access": "public"
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
     "@wzq-cli-dev/utils": "^0.0.10"
-  }
+  },
+  "gitHead": "e2142b36b6e2e432e3199151505388ff206925b9"
 }
