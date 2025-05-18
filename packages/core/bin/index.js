@@ -1,2 +1,2 @@
 #! /usr/bin/env node
-console.log('hello wzq-cli-dev new world 111')
+console.log('hello wzq-cli-dev new world 1111')
