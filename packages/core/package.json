@@ -1,6 +1,6 @@
 {
   "name": "@wzq-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "wangzq <wangzq5@chinatelecom.cn>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@imooc-cli-dev/utils": "^0.0.1"
+    "@wzq-cli-dev/utils": "^0.0.1"
   },
   "gitHead": "98ffd16774bbdfd76e16702e35758010908e80ab"
 }
